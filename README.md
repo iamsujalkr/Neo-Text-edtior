@@ -1,8 +1,8 @@
-
 # Neo Text Editor
 Neo Text Editor is a simple and lightweight, customizable text editor designed for efficient text editing and coding. Neo Text Editor is a basic text editor just like notepad with some extra features, It aims to provide a seamless editing experience.
 
-## :camera: Screenshots
+## :camera: Preview Video
+https://github.com/user-attachments/assets/92112109-5877-4a38-a4b8-cbf61466bd5c
 
 ## :scroll: Built with
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
