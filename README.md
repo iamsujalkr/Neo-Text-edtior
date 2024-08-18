@@ -16,6 +16,29 @@ https://github.com/user-attachments/assets/92112109-5877-4a38-a4b8-cbf61466bd5c
 - Find/Replace option
 - User-Friendly Interface
 
+## :gear: Installation
+- If you are a Windows user, you can directly download the windows compatible release from <a href="https://github.com/iamsujalkr/Neo-Text-edtior/releases/tag/v0.01">here</a><br>
+- Otherwise follow the given steps to run locally in any environment :-<br>
+  1. Install Python in your system
+
+
+  2. Clone the repository<br> 
+      ```bash
+      git clone https://github.com/iamsujalkr/Neo-Text-edtior.git
+      ```
+  
+      
+  3. Navigate to the project directory
+      ```bash
+      cd Neo-Text-edtior
+      ```
+
+
+  4.  Run the neo.py file
+      ```bash
+      python neo.py  or  python3 neo.py
+      ```
+
 ## :file_folder: License
 - This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
 - This project does not have any resemblence to notepad
